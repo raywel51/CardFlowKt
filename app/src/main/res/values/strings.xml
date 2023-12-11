@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GETMEIN</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_index">IndexActivity</string>
+</resources>
